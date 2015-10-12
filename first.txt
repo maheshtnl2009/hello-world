@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the first file with modifications
+=======
+This is my first text file in hello-world folder
+>>>>>>> 3d1a1428cfaf44bdd59d268df0044766e5fe8271
