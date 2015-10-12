@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is the third file with modifications
-=======
-This is my third text file in hello-world folder
->>>>>>> 25f93ed4b9ed9c2ce920e26a82eed48627279a01
